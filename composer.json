@@ -1,0 +1,9 @@
+{
+  "require": {
+    "cakephp/cakephp": "2.10.15",
+    "phpunit/phpunit": "^5.7"
+  },
+  "config": {
+    "vendor-dir": "Vendor/"
+  }
+}

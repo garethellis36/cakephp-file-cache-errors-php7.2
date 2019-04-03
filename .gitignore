@@ -1,0 +1,4 @@
+Vendor/
+php_errors.log
+tmp/cache/persistent/
+.idea/
